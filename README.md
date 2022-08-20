@@ -67,10 +67,10 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
+This project is under license from GPL. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/Hassunaama" target="_blank">{{YOUR_NAME}}</a>, and all contributors.
+Made with :heart: by <a href="https://github.com/Hassunaama" target="_blank">Hassunaama</a>, and all contributors.
 
 &#xa0;
 
