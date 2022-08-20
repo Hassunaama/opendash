@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <a href="">
+  <a href="https://discord.gg/YuS7tppAjH">Discord</a>
   <a href="https://github.com/Hassunaama/opendash/releases">Download</a>
 </div>
 
