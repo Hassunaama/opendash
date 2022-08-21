@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ."
   },
   "repository": {
     "type": "git",
@@ -15,10 +15,5 @@
   "bugs": {
     "url": "https://github.com/Hassunaama/opendash/issues"
   },
-  "homepage": "https://github.com/Hassunaama/opendash#readme",
-  "dependencies": {
-    "body-parser": "^1.20.0",
-    "cors": "^2.8.5",
-    "express": "^4.18.1"
-  }
+  "homepage": "https://github.com/Hassunaama/opendash#readme"
 }
