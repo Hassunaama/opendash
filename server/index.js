@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 80
+const port = 8080
 const bodyParser = require('body-parser')
 const cors = require('cors')
 const csrf = require("csurf");
@@ -22,8 +22,8 @@ app.get('/api/', (req, res) => {
     res.status(404).send('<h1>nope.</h1>')
 })
 
-app.listen(port, () => {
+/*app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
     console.log(`http://localhost:${port}`)
     console.log(`http://localhost:${port}/api/`)
-})
+})*/
